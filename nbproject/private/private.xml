@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/main/MainButtonActionListener.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/jenis_member/JenisMemberTableModel.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/member/Member.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/member/MemberButtonSimpanActionListener.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/dao/MemberDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/main/MainFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/db/MySqlConnection.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/member/MemberTableModel.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/dao/JenisMemberDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/jenis_member/JenisMember.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/member/MemberFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/jenis_member/JenisMemberButtonSimpanActionListener.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Membership/src/jenis_member/JenisMemberFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
